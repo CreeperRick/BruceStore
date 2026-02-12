@@ -7,9 +7,7 @@
 
 ## Preview
 
-![Cyber_Hacker Theme Preview](Cyber_Hacker/boot.gif)
-
-*Animated boot sequence with cyberpunk hacker aesthetic*
+![Cyber_Hacker Theme Preview](boot.gif)
 
 ## Features
 
